@@ -3,13 +3,13 @@
 ## Flexbox 
 Flexbox layout is appropriate for small scale layouts.
 
-[Flexbox Froggy](https://flexboxfroggy.com) - great way to learn about flexboxes.
+[Flexbox Froggy](https://flexboxfroggy.com) - a game where you learn about flexboxes
 
 ## [Instabox](https://github.com/hansCodeJam/instabox)
-Group project. The goal was to copy the website instagram using flexbox. 
+Made a copy the website instagram using flexbox. 
 
 ## [Copy Ocelot](https://github.com/hansCodeJam/copy-ocelot)
-Solo project. Made a copy of grubhub. 
+Made a copy of grubhub. 
 
 
 ## [Responsive - Holy Moley ](https://github.com/hansCodeJam/holy-moley)
